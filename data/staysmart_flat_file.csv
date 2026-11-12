@@ -1,0 +1,6 @@
+booking_id,guest_name,email,room_number,room_type,check_in,check_out,status,payment_amount,payment_date
+1,Roxana Paunescu,roxana.paunescu@email.com,101,Standard,2026-01-10,2026-01-13,Booked,285,2026-01-05
+2,Jordan Miles,jordan.miles@email.com,102,Deluxe,2026-01-12,2026-01-15,Booked,390,2026-01-06
+3,Priya Sharma,priya.sharma@email.com,201,Twin,2026-01-18,2026-01-20,Booked,220,2026-01-10
+4,Liam Owen,liam.owen@email.com,301,Suite,2026-01-22,2026-01-25,Booked,720,2026-01-15
+5,Chloe Nguyen,chloe.nguyen@email.com,101,Standard,2026-01-28,2026-01-30,Cancelled,0,2026-01-16
